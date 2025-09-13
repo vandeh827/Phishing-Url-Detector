@@ -62,12 +62,8 @@ export VT_API_KEY="YOUR_API_KEY_HERE"
 Run the main script from your terminal.
 
 ```bash
-python phishing_detector.py
+python main.py
 ```
-
------
-
-## 🖼️ Screenshots
 
 -----
 
@@ -75,9 +71,7 @@ python phishing_detector.py
 
 ```
 ├── phishing_detector.py      # The main application script
-├── README.md                # This file
-└── ...                      # Other potential files
-```
+├── README.md                 # This file                   
 
 The core logic, including the GUI setup, API communication, and multi-threading, is contained within the `phishing_detector.py` file.
 
