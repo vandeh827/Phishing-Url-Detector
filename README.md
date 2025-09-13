@@ -34,7 +34,7 @@ To run this application, you'll need:
 Clone the repository and install the required Python libraries.
 
 ```bash
-git clone https://github.com/your-username/Phishing-URL-Detector.git
+git clone https://github.com/vandeh827/Phishing-URL-Detector.git
 cd Phishing-URL-Detector
 pip install requests
 ```
