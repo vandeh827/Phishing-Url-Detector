@@ -71,7 +71,7 @@ python main.py
 └── README.md                 # This file
 ```
 
-The core logic, including the GUI setup, API communication, and multi-threading, is all contained within the `phishing_detector.py` file.
+The core logic, including the GUI setup, API communication, and multi-threading, is all contained within the `main.py` file.
 
 -----
 
