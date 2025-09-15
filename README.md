@@ -67,7 +67,7 @@ python main.py
 ## 📂 Project Structure
 
 ```
-├── phishing_detector.py      # The main application script
+├── main.py                   # The main application script
 └── README.md                 # This file
 ```
 
