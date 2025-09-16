@@ -32,7 +32,9 @@ First, clone the repository and install the necessary Python libraries.
 
 ```bash
 git clone https://github.com/vandeh827/Phishing-Url-Detector.git
+
 cd Phishing-Url-Detector
+
 pip install requests
 ```
 
