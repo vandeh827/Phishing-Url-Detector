@@ -1,4 +1,4 @@
-# Phishing URL Detector
+# Introduction 
 
 This is a simple, graphical phishing URL detector built with Python, leveraging the **VirusTotal API** to scan URLs and provide a safety report. The application features a user-friendly interface powered by `tkinter` and includes functionalities like real-time clipboard monitoring, a scan history log, and the ability to save detailed reports.
 
