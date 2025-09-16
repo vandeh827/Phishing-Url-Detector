@@ -67,7 +67,7 @@ python main.py
 ## 📂 Project Structure
 
 ```
-├──Lisence                    # Lisence 
+├──Licence                    # Licence 
 ├── main.py                   # The main application script
 └── README.md                 # This file
 ```
